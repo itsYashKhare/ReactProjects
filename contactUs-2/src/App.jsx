@@ -1,8 +1,11 @@
 import './App.css'
+import Navigation from './componetns/Navigation';
 
 function App() {
 
-  return <div></div>;
+  return <div>
+    <Navigation />
+  </div>;
 }
 
 export default App
